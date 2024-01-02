@@ -1,5 +1,5 @@
 <a href="https://github.com/nebulaticofficial/nebulatic-os">![Nebulatic](costume3.png)</a>
-______________________________________________________________
+___
 <br>
 
 > [!IMPORTANT]
