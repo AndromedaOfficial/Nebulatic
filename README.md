@@ -1,4 +1,4 @@
-<a href="https://github.com/nebulaticofficial/nebulatic-os">![Nebulatic](assets/image/costume3.png)</a>
+<a href="https://github.com/nebulaticofficial/nebulatic-os">![Nebulatic](assets/images/costume3.png)</a>
 ___
 <br>
 
