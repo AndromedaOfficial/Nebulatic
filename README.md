@@ -1,8 +1,15 @@
 <a href="https://github.com/nebulaticofficial/nebulatic-os">![Nebulatic](costume3.png)</a>
 ______________________________________________________________
 <br>
-> [!NOTE]
+
+> [!IMPORTANT]
 > This OS will mainly be for developers
+
+> [!NOTE]
+> This OS will also have the some tools that most developers use, and many others
+
+> [!TIP]
+> We recomend that you either run Nebulatic OS on a virtual machine like VirtualBox, or make a bootable usb drive that has Nebultic OS on it using something like Rufus or Etcher
 
 Holds the files for Nebulatic.
 <details closed>
@@ -17,14 +24,20 @@ Updates for the operating system on one of the 3 following GitHub accounts:
 <br>
 <a href="https://github.com/nebulaticofficial">@NebulaticOfficial</a>
 <br>
+<br>
 The ISO will be released on the Internet Archive and on the GitHub account of <a href="https://github.com/nebulaticofficial">@NebulaticOfficial</a>.
 </details>
 <details open>
 <summary>Nebulatic Team:</summary>
 <br>
+Developers:
+<br>
 <a href="https://github.com/gitventurer">@gitventurer</a>
 <br>
 <a href="https://github.com/xrg2014">@XRG2014</a>
+<br>
+<br>
+Release Pages and Nebulatic Repos:
 <br>
 <a href="https://github.com/nebulaticofficial">@NebulaticOfficial</a>
 </details>
