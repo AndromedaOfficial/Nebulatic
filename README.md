@@ -1,4 +1,4 @@
-<a href="https://github.com/nebulaticofficial/nebulatic-os">![Nebulatic](assets/images/costume3.png)</a>
+<a href="https://github.com/andromedaofficial/nebulatic-os">![Nebulatic](assets/images/costume3.png)</a>
 ___
 <br>
 
@@ -13,7 +13,7 @@ ___
 
 Holds the files for Nebulatic.
 <details closed>
-<summary>The <a href="https://github.com/NebulaticOfficial/Nebulatic-OS/raw/main/Window%20Drag%20Test%20%7C%20Working%20Elements%203.sb3">Window Drag Test</a> is a Scratch file. Here is some of the information not listed in it</summary>
+<summary>The <a href="https://github.com/andromedaofficial/Nebulatic-OS/raw/main/Window%20Drag%20Test%20%7C%20Working%20Elements%203.sb3">Window Drag Test</a> is a Scratch file. Here is some of the information not listed in it</summary>
 <br>
 This is going to be a demo for a functional operating system called “Nebulatic” that won’t come out in a while. You can drag the window, close the window, maximize and minimize the window, reopen the window, and etc. This can only open 1 window.
 Updates for the operating system on one of the 3 following GitHub accounts:
@@ -22,13 +22,13 @@ Updates for the operating system on one of the 3 following GitHub accounts:
 <br>
 <a href="https://github.com/xrg2014">@XRG2014</a>
 <br>
-<a href="https://github.com/nebulaticofficial">@NebulaticOfficial</a>
+<a href="https://github.com/andromedaofficial">@AndromedaOfficial</a>
 <br>
 <br>
-The ISO will be released on the Internet Archive and on the GitHub account of <a href="https://github.com/nebulaticofficial">@NebulaticOfficial</a>.
+The ISO will be released on the Internet Archive and on the GitHub account of <a href="https://github.com/andromedaofficial">@AndromedaOfficial</a>.
 </details>
 <details closed>
-<summary>Nebulatic Team</summary>
+<summary>Andromeda Team</summary>
 <br>
 Developers:
 <br>
@@ -37,7 +37,7 @@ Developers:
 <a href="https://github.com/xrg2014">@XRG2014</a>
 <br>
 <br>
-Release Pages and Nebulatic Repos:
+Release Pages and Andromeda Repos:
 <br>
-<a href="https://github.com/nebulaticofficial">@NebulaticOfficial</a>
+<a href="https://github.com/andromedaofficial">@AndromedaOfficial</a>
 </details>
