@@ -3,13 +3,13 @@ ___
 <br>
 
 > [!IMPORTANT]
-> This OS will mainly be for developers
+> This OS will mainly be for developers.
 
 > [!NOTE]
-> This OS will also have the some tools that most developers use, and many others
+> This OS will also have the some tools that most developers use, and many others.
 
 > [!TIP]
-> We recomend that you either run Nebulatic OS on a virtual machine like VirtualBox, or make a bootable usb drive that has Nebultic OS on it using something like Rufus or Etcher
+> We recomend that you either run Nebulatic OS on a virtual machine like VirtualBox, or make a bootable usb drive that has Nebulatic OS on it using something like Rufus or Etcher.
 
 Holds the files for Nebulatic.
 <details closed>
