@@ -9,7 +9,7 @@ ___
 > This OS will also have the some tools that most developers use, and many others.
 
 > [!TIP]
-> We recommend that you either run Nebulatic OS on a virtual machine like VirtualBox, or make a bootable USB drive that has Nebulatic OS on it using something like Rufus or Etcher.
+> We recommend that you either run Nebulatic OS on a virtual machine like [VirtualBox](https://www.virtualbox.org/), or make a bootable USB drive that has Nebulatic OS on it using something like [Rufus](https://rufus.ie/) or [Etcher](https://etcher.balena.io/).
 
 Holds the files for Nebulatic.
 <details closed>
