@@ -1,4 +1,4 @@
-<a href="https://github.com/andromedaofficial/nebulatic-os">![Nebulatic](assets/images/costume3.png)</a>
+<a href="https://github.com/andromedaofficial/nebulatic-os">![Nebulatic](assets/images/NewLogo.png)</a>
 ___
 <br>
 
