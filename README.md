@@ -1,4 +1,4 @@
-<a href="https://github.com/andromedaofficial/nebulatic-os">![Nebulatic](assets/images/IMG_8991.png)</a>
+<a href="https://github.com/andromedaofficial/nebulatic-os">![Nebulatic](assets/images/IMG_8992.png)</a>
 ___
 <br>
 
@@ -6,7 +6,7 @@ ___
 > This OS will have a strong focus for developers, and some tools they may use.
 
 > [!NOTE]
-> Believe it or not, this OS is not actually ready to be released yet. When it is ready, this will be changed.
+> Believe it or not, this OS is not actually ready yet. When it is ready, this page will be changed.
 
 > [!TIP]
 > We recommend that you either run Nebulatic OS on a virtual machine like [VirtualBox](https://www.virtualbox.org/), or make a bootable USB drive that has Nebulatic OS on it using something like [Rufus](https://rufus.ie/) or [Etcher](https://etcher.balena.io/) if you do not have plans to use this operating system on your main drive.
